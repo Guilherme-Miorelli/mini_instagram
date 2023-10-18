@@ -1,1 +1,1 @@
-module.exports = 'teste';
+module.exports = process.env.SENHA_JWT;
